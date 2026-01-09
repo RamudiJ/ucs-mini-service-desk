@@ -27,7 +27,7 @@ Run `npm install`
 After that run `npm run dev`
 
 Deployement:
-
+https://ucs-mini-service-desk.vercel.app/
 
 Known Limitations:
  Data is stored using browser localStorage.
